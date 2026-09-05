@@ -2,6 +2,7 @@
 
 ## 📂 Project Structure
 
+```text
 mern-rest-api/
 │
 ├── server/
@@ -46,7 +47,7 @@ mern-rest-api/
 │
 ├── .gitignore
 └── README.md
-
+```text
 
 ## 📁 Folder Description
 
